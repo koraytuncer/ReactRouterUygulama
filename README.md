@@ -1,4 +1,4 @@
-react-router-uygulama.vercel.app
+https://react-router-uygulama.vercel.app/
 
 
 # Getting Started with Create React App
